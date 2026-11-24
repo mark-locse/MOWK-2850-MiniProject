@@ -2,6 +2,7 @@
 2850 Mini-Project Repository for Mark, Kieran, Will and Oli.
 
 Overall goal: "Proof of Concept" UniLeeds App Re-Design
+
 Current Sprint Goal: TBD
 
 Let's try to keep this repo the most recent version of the project at all times.
